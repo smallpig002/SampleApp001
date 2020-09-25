@@ -70,7 +70,7 @@ chmod +x ./$IBM_APP_NAME/d.sh
 #exit 0
 
 #echo "${BLUE}ibmcloud login${END}"
-#$IBMCLOUD login -r us-south <<EOF
+#$IBMCLOUD login -r eu-gb <<EOF
 #$IBM_ACCOUNT
 #n
 #EOF
